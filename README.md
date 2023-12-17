@@ -34,6 +34,7 @@
 
 ### 문제 데이터 저장
 ![image09](https://github.com/leedahye6801/Quiz/assets/119495348/6a3447de-596c-45e8-9903-37cbab60b640)
+![image10](https://github.com/leedahye6801/Quiz/assets/119495348/86b68f80-979b-440f-8107-64356a529f8f)
 파이어베이스-Cloud Firestore에 문제 데이터를 입력했다.
 a. first: 1과목 소프트웨어 설계
 b. two: 2과목 소프트웨어 개발
@@ -45,18 +46,19 @@ questions 년도/회차/문제번호
 기출문제를 기반으로 문제 데이터 번호를 지정하였다.
 ex) questions2011: 2020년 1회차 1번 문제
 
-![image10](https://github.com/leedahye6801/Quiz/assets/119495348/86b68f80-979b-440f-8107-64356a529f8f)
+### 문제 랜덤 출제 기능
 ![image11](https://github.com/leedahye6801/Quiz/assets/119495348/b1b3fa0d-5b61-4fef-9eda-e03aa2fe4cc1)
 ![image12](https://github.com/leedahye6801/Quiz/assets/119495348/7bf9af45-849b-4c3f-af77-2368b20af80d)
-### 문제 랜덤 출제 기능
 랜덤으로 문제를 출제
 개수는 30개로 지정하였지만 변경 가능
 
-
+### 결과 데이터 저장
 ![image13](https://github.com/leedahye6801/Quiz/assets/119495348/8a3e5d6e-4cd9-43bb-ae59-270b52fc2410)
 ![image14](https://github.com/leedahye6801/Quiz/assets/119495348/dead24e8-8d7e-472e-826e-579a65bf4643)
-### 결과 데이터 저장
 파이어베이스\_Cloud Firestore에 과목별 결과 데이터(정답과 오답, 풀지않은 문제의 개수)가 저장된
 다.
 
 ## 참여자 명단
++ 송선섭
++ 이다혜
++ 한준혁
