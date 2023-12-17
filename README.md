@@ -36,11 +36,11 @@
 ![image09](https://github.com/leedahye6801/Quiz/assets/119495348/6a3447de-596c-45e8-9903-37cbab60b640)
 ![image10](https://github.com/leedahye6801/Quiz/assets/119495348/86b68f80-979b-440f-8107-64356a529f8f)
 파이어베이스-Cloud Firestore에 문제 데이터를 입력했다.  
-a. first: 1과목 소프트웨어 설계
-b. two: 2과목 소프트웨어 개발
-c. three: 3과목 데이터베이스 구축
-d. four: 4과목 프로그래밍 언어 활용
-e. five: 5과목 정보시스템 구축 관리
+a. first: 1과목 소프트웨어 설계  
+b. two: 2과목 소프트웨어 개발  
+c. three: 3과목 데이터베이스 구축  
+d. four: 4과목 프로그래밍 언어 활용  
+e. five: 5과목 정보시스템 구축 관리  
 
 questions 년도/회차/문제번호
 기출문제를 기반으로 문제 데이터 번호를 지정하였다.
