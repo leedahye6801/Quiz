@@ -1,7 +1,7 @@
 # 국가 자격 모의 테스트 자동 출제 시스템 개발[정보처리기사]
 
 ## 시스템 구성도
-<img src="{https://github.com/leedahye6801/Quiz/issues/1#issue-2045135484}"/>
+<img src="{https://github.com/leedahye6801/Quiz/assets/119495348/3dc0df40-ce10-4562-9bce-41fcf6522e1d}"/>
 
 
 ## 실행 환경
