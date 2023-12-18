@@ -4,20 +4,28 @@
 ![image01](https://github.com/leedahye6801/Quiz/assets/119495348/3dc0df40-ce10-4562-9bce-41fcf6522e1d)
 
 ## 실행 환경
-- 안드로이드 스튜디오
-- 파이어베이스
+- 안드로이드 스튜디오(돌핀 버전 2021.3.1 /  Android Device Manager: pixel2, 시스템: Q )
+- 파이어베이스(웹이라 누구나 가능, 버전 없다. Authentication (로그인), FirrebaseCrud(문제 데이터)
 
 ## 실행 방법
-![image02](https://github.com/leedahye6801/Quiz/assets/119495348/31f3bc89-320e-471f-86d1-8052af27f2a7)
-<메인화면>
-![image03](https://github.com/leedahye6801/Quiz/assets/119495348/8cb4df0e-ca34-4f67-ad12-3b1a0587ac29)
-<과목 리스트 화면>
-해당 과목의 유형별로 시험을 보게 된다.
-![image15](https://github.com/leedahye6801/Quiz/assets/119495348/e06cd86a-23a8-45bb-8937-a77a96a22f54)
-START QUIZ 버튼을 클릭시 시험이 시작된다.
+![image02](https://github.com/leedahye6801/Quiz/assets/119495348/31f3bc89-320e-471f-86d1-8052af27f2a7)  
+<메인화면>  
+![image18](https://github.com/leedahye6801/Quiz/assets/119495348/6e109435-e9a7-40df-8786-dbf1dae9d1a8)
+<로그인 화면>  
+![image03](https://github.com/leedahye6801/Quiz/assets/119495348/8cb4df0e-ca34-4f67-ad12-3b1a0587ac29)  
+<과목 리스트 화면>  
+해당 과목의 유형별로 시험을 보게 된다.  
+![image15](https://github.com/leedahye6801/Quiz/assets/119495348/e06cd86a-23a8-45bb-8937-a77a96a22f54)  
+START QUIZ 버튼을 클릭시 시험이 시작된다.  
 ![image04](https://github.com/leedahye6801/Quiz/assets/119495348/c557ad7b-b302-4eac-83c8-e481de800c63)
-
+시험을 시작하면 제한 시간인 1분 안에 문제를 읽고 정답을 선택한다.  
+풀지 못할 때 EXT QUESTION 버튼을 통해 다음 문제로 전환( 이때, 선지를 선택할 수 없다.)  
+![image16](https://github.com/leedahye6801/Quiz/assets/119495348/0013d3a9-49ff-4f58-8c05-adadeca4a47f)  
+시험 문제의 정답을 고르면 초록색으로 표시된다.  
+![image17](https://github.com/leedahye6801/Quiz/assets/119495348/5db57486-248b-47d3-8e69-0885ff2edd91)  
+오답을 고를 경우 빨간색으로 표시되며 정답이 아닌 이유를 해설해준다.  
 ![image05](https://github.com/leedahye6801/Quiz/assets/119495348/6216400a-4e01-43ae-83a7-9e0e861932b8)
+문제를 전부 풀게 되면 해당 과목의 문제별 평균 시간과 정답 수, 오답 수가 공개된다.
 1. 로그인 (구글 계정)
 2. 응시 과목 선택
 3. START QUIZ 버튼을 통해 응시
