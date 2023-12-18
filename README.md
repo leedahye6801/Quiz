@@ -75,7 +75,7 @@ ex) questions2011: 2020년 1회차 1번 문제
 
 ### 결과 데이터 저장
 ![image13](https://github.com/leedahye6801/Quiz/assets/119495348/8a3e5d6e-4cd9-43bb-ae59-270b52fc2410)
-![image14](https://github.com/leedahye6801/Quiz/assets/119495348/dead24e8-8d7e-472e-826e-579a65bf4643)
+![image14](https://github.com/leedahye6801/Quiz/assets/119495348/dead24e8-8d7e-472e-826e-579a65bf4643)  
 파이어베이스\_Cloud Firestore에 과목별 결과 데이터(정답과 오답, 풀지않은 문제의 개수)가 저장된다.
 
 ## 참여자 명단
