@@ -9,8 +9,14 @@
 
 ## 실행 방법
 ![image02](https://github.com/leedahye6801/Quiz/assets/119495348/31f3bc89-320e-471f-86d1-8052af27f2a7)
+<메인화면>
 ![image03](https://github.com/leedahye6801/Quiz/assets/119495348/8cb4df0e-ca34-4f67-ad12-3b1a0587ac29)
+<과목 리스트 화면>
+해당 과목의 유형별로 시험을 보게 된다.
+![image15](https://github.com/leedahye6801/Quiz/assets/119495348/e06cd86a-23a8-45bb-8937-a77a96a22f54)
+START QUIZ 버튼을 클릭시 시험이 시작된다.
 ![image04](https://github.com/leedahye6801/Quiz/assets/119495348/c557ad7b-b302-4eac-83c8-e481de800c63)
+
 ![image05](https://github.com/leedahye6801/Quiz/assets/119495348/6216400a-4e01-43ae-83a7-9e0e861932b8)
 1. 로그인 (구글 계정)
 2. 응시 과목 선택
