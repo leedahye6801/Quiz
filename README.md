@@ -10,7 +10,7 @@
 ## 실행 방법
 ![image02](https://github.com/leedahye6801/Quiz/assets/119495348/31f3bc89-320e-471f-86d1-8052af27f2a7)  
 <메인화면>  
-![image18](https://github.com/leedahye6801/Quiz/assets/119495348/6e109435-e9a7-40df-8786-dbf1dae9d1a8)
+![image18](https://github.com/leedahye6801/Quiz/assets/119495348/6e109435-e9a7-40df-8786-dbf1dae9d1a8)  
 <로그인 화면>  
 ![image03](https://github.com/leedahye6801/Quiz/assets/119495348/8cb4df0e-ca34-4f67-ad12-3b1a0587ac29)  
 <과목 리스트 화면>  
