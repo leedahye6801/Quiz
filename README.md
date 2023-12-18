@@ -17,7 +17,7 @@
 해당 과목의 유형별로 시험을 보게 된다.  
 ![image15](https://github.com/leedahye6801/Quiz/assets/119495348/e06cd86a-23a8-45bb-8937-a77a96a22f54)  
 START QUIZ 버튼을 클릭시 시험이 시작된다.  
-![image04](https://github.com/leedahye6801/Quiz/assets/119495348/c557ad7b-b302-4eac-83c8-e481de800c63)
+![image04](https://github.com/leedahye6801/Quiz/assets/119495348/c557ad7b-b302-4eac-83c8-e481de800c63)  
 시험을 시작하면 제한 시간인 1분 안에 문제를 읽고 정답을 선택한다.  
 풀지 못할 때 EXT QUESTION 버튼을 통해 다음 문제로 전환( 이때, 선지를 선택할 수 없다.)  
 ![image16](https://github.com/leedahye6801/Quiz/assets/119495348/0013d3a9-49ff-4f58-8c05-adadeca4a47f)  
